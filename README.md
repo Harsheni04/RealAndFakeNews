@@ -21,6 +21,7 @@ This Python Colab Notebook is designed to distinguish between genuine and false 
 ## Usage
 The collab script already has the required code and output. However, the individual code blocks can be run for better and further understanding if necessary.
 The Training.csv dataset has to be downloaded before running the program.
+The dataset can be downloaded from the link: https://drive.google.com/file/d/1mpc2_lQNgcdmJnnNEKLo3iD-7MYeK3Yx/view?usp=sharing
 
 ## Demo video
 There's a demonstration video with voice-over that explains the working of the code.
